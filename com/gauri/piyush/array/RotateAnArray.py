@@ -7,7 +7,7 @@ list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 k = 3
 
-#First Approach.. though this uses extra uses, can also be done in same array with for loop
+#First Approach.. though this uses extra space, can also be done in same array with for loop
 
 list = list[::-1] #reverse the array
 
